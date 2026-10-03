@@ -32,8 +32,11 @@ Risk Analysis,Ethereum,MEDIUM,UPWARD,11.846,,,,,,,,
 Risk Analysis,Binancecoin,MEDIUM,UPWARD,0.2471,,,,,,,,
 Risk Analysis,Bitcoin,MEDIUM,DOWNWARD,-0.2659,,,,,,,,
 Risk Analysis,Ethereum,MEDIUM,UPWARD,0.2695,,,,,,,,
-Investment Mix,,,,,1.0,40.0,0.0,60.0,0.000788,0.2605,0.034675,0.2432
-Investment Mix,,,,,2.0,50.0,0.0,50.0,0.000741,0.2583,0.033467,0.2416
-Investment Mix,,,,,3.0,60.0,0.0,40.0,0.000694,0.2561,0.032258,0.2399
-Investment Mix,,,,,4.0,30.0,10.0,60.0,0.00071,0.2092,0.034245,0.1921
-Investment Mix,,,,,5.0,40.0,10.0,50.0,0.000663,0.207,0.033037,0.1905
+Risk Analysis,Binancecoin,MEDIUM,DOWNWARD,-1.2031,,,,,,,,
+Risk Analysis,Bitcoin,MEDIUM,DOWNWARD,-2.5296,,,,,,,,
+Risk Analysis,Ethereum,MEDIUM,DOWNWARD,-2.6133,,,,,,,,
+Investment Mix,,,,,1.0,60.0,40.0,0.0,5e-05,-1.7337,0.025729,-1.7466
+Investment Mix,,,,,2.0,60.0,30.0,10.0,0.000173,-1.7421,0.027369,-1.7558
+Investment Mix,,,,,3.0,60.0,20.0,20.0,0.000297,-1.7504,0.029009,-1.7649
+Investment Mix,,,,,4.0,60.0,10.0,30.0,0.00042,-1.7588,0.030649,-1.7741
+Investment Mix,,,,,5.0,60.0,0.0,40.0,0.000543,-1.7672,0.032289,-1.7833
